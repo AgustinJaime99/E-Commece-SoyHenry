@@ -5,20 +5,17 @@
 # Henry
 
 <p align='center'>
-<img src='https://i.ibb.co/s2L1nqL/1.jpg' </img>
+<img src='https://ibb.co/94n2JVM' </img>
 <br>
 </br>
 </br>
-<img src='https://i.ibb.co/BLCzDyX/2.jpg' </img>
+<img src='https://ibb.co/82VXM5D' </img>
 <br>
 </br>
 </br>
-<img src='https://i.ibb.co/4JDnjMQ/3.jpg' </img>
+<img src='https://ibb.co/rfBQShr' </img>
 <br>
 </br>
-</br>
-<img src='https://i.ibb.co/9qXDrmL/4.jpg' </img>
-
 </p>
 
 ## Objetivos del Proyecto
